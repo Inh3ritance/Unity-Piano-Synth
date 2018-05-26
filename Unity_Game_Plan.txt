@@ -1,0 +1,12 @@
+# Will consistent of constant revision to update plan and game to full potential
+# Will fix bugs/glitches along the way and improve overall performance
+# In the end, become a mobile application
+# Use of unity 2018
+
+First Update 05/26/2018
+
+# GUI(volume, application layout, art(will be provided)) -> Shamon
+# Mobile Touch Input -> Humberto
+# Generate Key sound(s) -> Allen
+
+Second Update TBA
