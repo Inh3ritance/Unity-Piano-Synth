@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piano Synth", "Assembly-CSharp.csproj", "{6704F517-AE0D-7FBB-F427-D610555B4611}"
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piano Synth.CSharp", "Piano Synth.CSharp.csproj", "{675C2A44-7949-7FA2-EF51-B756ED263BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6704F517-AE0D-7FBB-F427-D610555B4611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6704F517-AE0D-7FBB-F427-D610555B4611}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6704F517-AE0D-7FBB-F427-D610555B4611}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6704F517-AE0D-7FBB-F427-D610555B4611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675C2A44-7949-7FA2-EF51-B756ED263BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675C2A44-7949-7FA2-EF51-B756ED263BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675C2A44-7949-7FA2-EF51-B756ED263BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675C2A44-7949-7FA2-EF51-B756ED263BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
